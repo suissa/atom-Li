@@ -1,6 +1,7 @@
 module.exports = { 
   simbolo: 'Li', 
   nome: 'lítio',
+  numeroAtomico: 3,
   familia: {
     {      
       coluna: '1'
