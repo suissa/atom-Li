@@ -12,7 +12,7 @@ module.exports = {
       descritiva: 'metal alcalino'
     }
   }, 
-  periodo: 1, 
+  periodo: 2, 
   numero: {
     eletrons: 3,
     neutrons: 3,
